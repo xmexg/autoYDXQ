@@ -31,7 +31,11 @@ public class Ydxq {
     private int gender = 2; // 1男 2女
     private int heart = 6; // 过程间隔包
     private boolean RandomHeartScore = true; // 随机过程成绩
+<<<<<<< HEAD
     private int heartScore = 30; // 过程间隔包成绩
+=======
+    private int heartScore = 50; // 过程间隔包成绩
+>>>>>>> master
     private String UA = "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.123 Mobile Safari/537.36";
     private String account_id; // 用户id 在cookie中获取
 
